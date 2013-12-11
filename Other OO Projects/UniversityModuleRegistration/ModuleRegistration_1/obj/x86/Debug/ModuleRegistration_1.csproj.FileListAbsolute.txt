@@ -1,0 +1,72 @@
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+c:\users\edowindows\documents\visual studio 2010\Projects\ModuleRegistration_1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_2\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_4\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\ModuleRegistration_5\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\Edo2\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdoWindows\Documents\Visual Studio 2010\Projects\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.exe
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.pdb
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.exe
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\bin\Debug\ModuleRegistration_1.pdb
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Form1.resources
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\ModuleRegistration_1.Properties.Resources.resources
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\OOProgramming\w1266346_CW1\ModuleRegistration_1\obj\x86\Debug\GenerateResource.write.1.tlog

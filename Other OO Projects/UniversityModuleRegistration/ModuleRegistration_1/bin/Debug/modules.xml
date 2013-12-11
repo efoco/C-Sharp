@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Modules>
+<Module>
+<Code>3SFE504</Code>
+<ModuleName>Algorithms and Data Structures</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Monday 9-11</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 11-1pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE508</Code>
+<ModuleName>3D Graphics 1</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Monday 2-4pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 4-6pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE513</Code>
+<ModuleName>Event-Driven Programming</ModuleName>
+<ModuleCapacity>10</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Tuesday 9-11</ModuleLectureSlot>
+<ModuleTutorialSlot>Tuesday 11-1pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE514</Code>
+<ModuleName>Object-Oriented Design</ModuleName>
+<ModuleCapacity>10</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Tuesday 2-4pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Tuesday 4-6pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE516</Code>
+<ModuleName>Requirements Engineering</ModuleName>
+<ModuleCapacity>10</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Thursday 9-11</ModuleLectureSlot>
+<ModuleTutorialSlot>Thursday 11-1pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE599</Code>
+<ModuleName>Introduction to AI</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Thursday 2-4pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 9-11</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE540</Code>
+<ModuleName>Java Mobile Application Development</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>3SFE514</ModulePrerequisites>
+<ModuleLectureSlot>Monday 11-1pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 2-4pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE541</Code>
+<ModuleName>C# .Net Framework Programming</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>1</ModuleSemester>
+<ModulePrerequisites>3SFE514</ModulePrerequisites>
+<ModuleLectureSlot>Monday 4-6pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Tuesday 9-11</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE515</Code>
+<ModuleName>Software Engineering Group Project</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>3SFE514</ModulePrerequisites>
+<ModuleLectureSlot>Monday 9-11</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 11-1pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE519</Code>
+<ModuleName>Software Engineering</ModuleName>
+<ModuleCapacity>10</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Monday 2-4pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 4-6pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE542</Code>
+<ModuleName>Mobile User Interface Development</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>3SFE540</ModulePrerequisites>
+<ModuleLectureSlot>Tuesday 9-11</ModuleLectureSlot>
+<ModuleTutorialSlot>Tuesday 11-1pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3MTS594</Code>
+<ModuleName>Interactive Multimedia</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Tuesday 2-4pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Tuesday 4-6pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE555</Code>
+<ModuleName>Concurrent Programming</ModuleName>
+<ModuleCapacity>5</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Thursday 9-11</ModuleLectureSlot>
+<ModuleTutorialSlot>Thursday 11-1pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE557</Code>
+<ModuleName>Mobile Gaming</ModuleName>
+<ModuleCapacity>10</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>none</ModulePrerequisites>
+<ModuleLectureSlot>Thursday 9-11</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 9-11</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE500</Code>
+<ModuleName>Intelligent Systems</ModuleName>
+<ModuleCapacity>10</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>3SFE599</ModulePrerequisites>
+<ModuleLectureSlot>Monday 11-1pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Monday 2-4pm</ModuleTutorialSlot>
+</Module>
+<Module>
+<Code>3SFE501</Code>
+<ModuleName>3D Graphics II</ModuleName>
+<ModuleCapacity>10</ModuleCapacity>
+<ModuleSemester>2</ModuleSemester>
+<ModulePrerequisites>3SFE508</ModulePrerequisites>
+<ModuleLectureSlot>Monday 4-6pm</ModuleLectureSlot>
+<ModuleTutorialSlot>Tuesday 9-11</ModuleTutorialSlot>
+</Module>
+</Modules>
